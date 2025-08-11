@@ -2,18 +2,20 @@
 Este dashboard permite analizar la estructura del personal y la masa salarial de manera dinámica.
 Algunas de las métricas clave que puedes encontrar:
 
-✔ Masa salarial total
-✔ Promedio de años de servicio
-✔ Cantidad total de empleados, distribuidos por género y tipo de contrato
-✔ Comparación entre métricas de Salario y Cantidad de empleados mediante un selector dinámico
-✔ Distribución por años de servicio y estatus (activo o licencia)
+✔ Masa salarial total   
+✔ Promedio de años de servicio   
+✔ Cantidad total de empleados, distribuidos por género y tipo de contrato   
+✔ Comparación entre métricas de Salario y Cantidad de empleados mediante un selector dinámico   
+✔ Distribución por años de servicio y estatus (activo o licencia)   
 
 🔍 ¿Por qué es útil este dashboard?
 Permite a las áreas de RRHH y Finanzas identificar:
-✅ Cuáles son los cargos con mayor masa salarial
-✅ Equilibrio de género en la organización
+
+
+✅ Cuáles son los cargos con mayor masa salarial    
+✅ Equilibrio de género en la organización   
 ✅ Proporción de empleados activos vs en licencia
-✅ Evolución histórica de contrataciones
+✅ Evolución histórica de contrataciones   
 
 📂 Tecnologías utilizadas:
 
